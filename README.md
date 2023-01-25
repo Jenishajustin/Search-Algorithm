@@ -101,7 +101,7 @@ else:
 ```
 ## Sample Input and Output
 ### Linear Search
-![model](linearsearch.png)
+![model](linearsearch1.png)
 <br>
 
 ### Binary Search (Iterative Method)
